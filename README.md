@@ -24,5 +24,6 @@ Then run *main.py* in the *mAP* directory to calculate *mAP* and other results.
 - Datasets：
   - https://github.com/hikariming/virus-mask-dataset
   - https://www.kesci.com/home/dataset/5e958c69e7ec38002d033362
+  - For more, please refer to [this](https://github.com/CH-YellowOrange/YOLOv5-for-Object-Tracking-based-on-IoT/blob/-main/More%20Information.pdf).
 
 
